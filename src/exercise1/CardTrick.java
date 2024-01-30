@@ -61,7 +61,9 @@ public class CardTrick {
         return false;
     }
 
-    private static void printInfo() {
+    private static void printInfo() 
+{
+          // I'm done! 
         System.out.println("Congratulations, you guessed right!");
         System.out.println("My name is Sanjana, but you can call me sanju");
         System.out.println("My career ambitions: software developer ");
